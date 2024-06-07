@@ -17,7 +17,7 @@ function carInsurance() {
           {
             tag: "h1",
             attributes: { id: "formInsuranceTitle" },
-            properties: { textContent: "form generator" },
+            properties: { textContent: "Insurance Form" },
           },
           {
             tag: formInsurance(),
